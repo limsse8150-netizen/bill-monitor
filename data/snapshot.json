@@ -1,0 +1,3731 @@
+{
+ "saved_at": "2026-11-02 08:09",
+ "bills": {
+  "PRC_3F84B2AE4F4C4E44A39DD47B3F46A4": {
+   "bill_no": "2222222",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_FBD0FEF6C902443B9B3EDB48FBCDBA": {
+   "bill_no": "2222166",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A4C45244337A4BC8B41881C3F4BD7D": {
+   "bill_no": "2222153",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2B6J0J8I2J4H1H0G0V0V5U5U0T9R7": {
+   "bill_no": "2222069",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2G5F0F7D1E7M0K9L5J7K0I3J5R1R1": {
+   "bill_no": "2221922",
+   "name": "섬 관광진흥법안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_02738F6C27504E10A89ADAF8BB7EA7": {
+   "bill_no": "2221803",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_931530ED8E4043978F70EFB59DBFF3": {
+   "bill_no": "2221727",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_ED9FB9789E354F9ABD16C4F0D3920B": {
+   "bill_no": "2221594",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2B6B0J9J1I6J0H9H3G4O0O2M0N1M4": {
+   "bill_no": "2221586",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_W2X6F0F9E1C7D1B1C4X5Y3W1X5V0U5": {
+   "bill_no": "2221475",
+   "name": "해양레저관광진흥법 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2Z6X0Y9W1V8V0D9D0C8D0B0B6Z0I3": {
+   "bill_no": "2221450",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_L2J6J0I9G1H8O0Q9O0O7M1L9M8T3U9": {
+   "bill_no": "2221449",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2B6M0W9G0D2L1X9W2Z4E3N7I6J0X2": {
+   "bill_no": "2221277",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안(대안)",
+   "committee": "정무위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_P2Q6P0N9N0V6W2U1V4T8S5S9O2O9N7": {
+   "bill_no": "2221182",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_M2L6L0J8K1I1J1R7R1Q5O3P7N3O6V1": {
+   "bill_no": "2221123",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_O2P6N0N8W3W1U1V4U3S7S3A7B9Z6A6": {
+   "bill_no": "2220967",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_W2W6F0F8D2E1D0B9B5X9X2W7X6V2T0": {
+   "bill_no": "2220913",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_K2X6F0C5P2X0X1O1F0I4I4X3D6X8K0": {
+   "bill_no": "2220845",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2026-09-03"
+  },
+  "PRC_S2Q6Q0O8N2O5V1W4U3V2T5U4S3T8B7": {
+   "bill_no": "2220833",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2H6P0N8O2M4N1L3L1U4S4S5R2R9Q5": {
+   "bill_no": "2220803",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_A2Z6Z0Y8Y1G4G1F5D3E9D1D0Z1Z9Y5": {
+   "bill_no": "2220713",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2P6P0N7O1K6I1J1H1I2G4O0P1N7N4": {
+   "bill_no": "2220650",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "철회",
+   "law_result": "",
+   "proc_result": "철회",
+   "proc_dt": "2026-08-25"
+  },
+  "PRC_H2I6G0G7F0G7N1O4M4L8L4K0K9G6H6": {
+   "bill_no": "2220645",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2X6Y0W8X0F5F0E9C5D4B1B0K1K7I3": {
+   "bill_no": "2220634",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2Y6W0X7V0T8U1C6D2A8Y2Z8G0H2G3": {
+   "bill_no": "2220550",
+   "name": "해양레저관광진흥법 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2I6J0H8H0F7E1F4M1N1M2M5K4J5K6": {
+   "bill_no": "2220510",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2K6I0H7H2F9G1G3E4F3D3E4L2K9L1": {
+   "bill_no": "2220449",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_U2S6U0S7S2Q9M1N4L0M9K1L3J7R2S3": {
+   "bill_no": "2220445",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_O2W6X0V7T3U0T0T9B4B0A1Y5Z4X9Y8": {
+   "bill_no": "2220393",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2H6I0G7H2F9N1O7M1N6L2M7K2K7G9": {
+   "bill_no": "2220360",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2Y6X0X7T2U9S1S4Q0P8Q2Y3Y3W4X1": {
+   "bill_no": "2220352",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2T6R0R7Q1Q4O1E7E5C1E3C6C9B8I6": {
+   "bill_no": "2220346",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2S5T1R2Z2A9Y1Z7X0Y5W2X7S3T3R7": {
+   "bill_no": "2220303",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2J5J1I2I2H9F1G7N0O4N2N7L5T7R0": {
+   "bill_no": "2220291",
+   "name": "해양레저관광진흥법 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_W2U6V0T3U1P3Q1O7P1N0O5M6U2V0T8": {
+   "bill_no": "2220203",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_B2K6I0J6I2H4P1N0O5M6L2T7S2T1R0": {
+   "bill_no": "2220132",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2M6K0J7I0E3C0B8C5A9J2H8G9G7G8": {
+   "bill_no": "2220037",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2L6M0U7S1T6R1R5Q1R9M2N6L3K7K4": {
+   "bill_no": "2220027",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_M2K6J0J7Z0A6Y0Z9X4X8W2E8E5D1E6": {
+   "bill_no": "2219930",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2N6M0K7L0T8T1S6Q4R7P4Q6L9M4K1": {
+   "bill_no": "2219898",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2O6M0M6I3J0H1G5G0E1F5N1O0M7K4": {
+   "bill_no": "2219752",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_B2C6K0K7I0H1H1F1H1V6W2U5T6T5R5": {
+   "bill_no": "2219718",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2G6G0F7G0E1M1M1L1M5K3K6J4Y9Y0": {
+   "bill_no": "2219700",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2Q6X0W6V1C5B1A7A0J3I1F6N4M5L0": {
+   "bill_no": "2219670",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_O2M6L0T6U1U9T1R4Q2Z7X5Y4W8V4R0": {
+   "bill_no": "2219631",
+   "name": "도시교통정비 촉진법 일부개정법률안",
+   "committee": "국토교통위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2P6X0Y6W2V3U1P0Q4P7O5M8C9B5W4": {
+   "bill_no": "2219613",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_W2V6V0T6C2C6A0B9A1A7Y0Z2H4F3G4": {
+   "bill_no": "2219594",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2O6P0O4M0M8U0V9T3U5S1Q6R3Z9A2": {
+   "bill_no": "2219553",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2I6J0H6G1G8E1G8N2M5M5K4L1K0K1": {
+   "bill_no": "2219520",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_C2K6P0O6P2X4V1U3V0T6Q4O4M1L4M6": {
+   "bill_no": "2219517",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_K2K6S0R6O1W6V1V8B4Z0Z1Y5U9T4Q0": {
+   "bill_no": "2219440",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_H2F6E0D6G1F0E1D4D1L5K4J2H2I3E8": {
+   "bill_no": "2219411",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_B2A6Y0H6I1G2F1D7E1M6L3K6I0J2R5": {
+   "bill_no": "2219382",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2X6W0X6E1F2D1E7C1D5B4C3Y3W0W8": {
+   "bill_no": "2219375",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2Z6Y0E6D1C0G1M0L1K8J5G9F8B0K7": {
+   "bill_no": "2219294",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2O6W0W4V1T6U1S4T0B9Z4A0Y1Z1X3": {
+   "bill_no": "2219160",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2J5H0J8H2H6D1B5C4B6B4Z9A1I0G2": {
+   "bill_no": "2219132",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2M6K0L4G1H0F1G5E0F6D5L4L5K0L5": {
+   "bill_no": "2219118",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_O2M6L0T5Q2P7Y0U9U2A6A5Z4H0E4D8": {
+   "bill_no": "2219071",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2X6X0V4W3E0F1D6B3C0B5B5J0J1I1": {
+   "bill_no": "2219027",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2Y6Y0W4S3T0R1R4Q0R2P1P3Y4W3W9": {
+   "bill_no": "2218897",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_P2T6N0F4H1G5P1N3N5H9R1T8L8O0B5": {
+   "bill_no": "2218852",
+   "name": "도시교통정비 촉진법 일부개정법률안(대안)",
+   "committee": "국토교통위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2026-05-07"
+  },
+  "PRC_T2X6R0B3A2O6T1D3I3M5W0Y9C5N0D9": {
+   "bill_no": "2218533",
+   "name": "관광진흥법 일부개정법률안(대안)",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2026-05-07"
+  },
+  "PRC_K2K5I1J1R0S4Q1Q5P3N4O2W2X8V9V7": {
+   "bill_no": "2218337",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2T6R0S4Q0Y6Z1X0X5W8X2V1D1D0C7": {
+   "bill_no": "2218241",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_H2G6E0D3Z2A3Y1X2V0E6F1D5C8B0I5": {
+   "bill_no": "2218221",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2F6E0C3L3K0I1H8P1O5N2P2P3O6W5": {
+   "bill_no": "2218006",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_B2A6I0G3F2E7E1N3L5K5J0F8D8S6R7": {
+   "bill_no": "2217998",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2T6S0G3E2D7E1C8Z0X8V5W7V8D6C6": {
+   "bill_no": "2217991",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_Z2Y6D0Q3T1I1I1Z6E0G4Y1B4S0R5M8": {
+   "bill_no": "2217904",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2026-04-23"
+  },
+  "PRC_H2F6E0E3N2L3K1J1J1F2E3C4B2C4K9": {
+   "bill_no": "2217851",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_F2E6C0K3J2K5J1R3P4O6W2X6V8U6T6": {
+   "bill_no": "2217778",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_M2N6V0U3S2R4Z1A4Z5X4W5X6F2D4C3": {
+   "bill_no": "2217723",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_R2Q6X0Y3W0X4V1V0T5V5C5D0B5C1A3": {
+   "bill_no": "2217642",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-03"
+  },
+  "PRC_W2X6V0W3D0C3D1B1B3A5A5P3P5O2P1": {
+   "bill_no": "2217576",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2G6E0F3N0O9M1N3L5L3J3S1S6Q7R7": {
+   "bill_no": "2217569",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_W2W6U0V3T0S9T0A9B4Z5A4Y0Z1X4F5": {
+   "bill_no": "2217549",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2A6B0Z3A0Y9Z1V8T2T7S3S8R1R6Z8": {
+   "bill_no": "2217548",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2I6H0H3F1G1O1P5N5N4M2K7L6T6T8": {
+   "bill_no": "2217532",
+   "name": "도시교통정비 촉진법 일부개정법률안",
+   "committee": "국토교통위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-05-07"
+  },
+  "PRC_B2Z6Z0I2I2H0H1F0E2E7M1N6L0M9K9": {
+   "bill_no": "2217437",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2Y6H0B2X2B5V1Q0S2J8X5L9T1W8U2": {
+   "bill_no": "2217401",
+   "name": "관광진흥법 일부개정법률안(대안)",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안가결",
+   "law_result": "원안가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2026-03-31"
+  },
+  "PRC_Z2Z6H0G1G1E4F1D8E0M2N1L2L5K9I9": {
+   "bill_no": "2217335",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_K2L6J0K3S0T3R1R6Q0Q8O5K0L3J7K1": {
+   "bill_no": "2217271",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2D6C0C2A2B7J1J0I1I4H5F1G8O1O7": {
+   "bill_no": "2217189",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2N6M0N2U2V5T1S0S4R6R1H5H3G9H9": {
+   "bill_no": "2217183",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2B6C0A2B2W5X1V0W4U8U5T2B3B0A7": {
+   "bill_no": "2217172",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2Q6Y0Y2X0Y9W1W6V0D7D3C4C9A5B2": {
+   "bill_no": "2217131",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2Q6R0Q2Q2Y4Y1X3V0W7U5V4D8D4B7": {
+   "bill_no": "2217126",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_R2Q6Q0O2W2X4V1W3U0V1T4U7P7O5O3": {
+   "bill_no": "2217122",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2S6T0R2R2L6L1J5L3J1J3H7I5Q0O2": {
+   "bill_no": "2217120",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2U5U0S7T1R6Q1Q0Y3Z4X0Y5W0X8V0": {
+   "bill_no": "2217044",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_E2D5E0M9L0K9I1J3R5Q1O5N2V0W7U5": {
+   "bill_no": "2216914",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_R2Z6A0Y2Y1W2V1W0D3E6C1D5B4C1A9": {
+   "bill_no": "2216841",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2F6F0B2B0A9B1Z4A3Y6Y1G0E7F5E6": {
+   "bill_no": "2216840",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_X2Y6W0E2F1D2D1C0C3B7C5J8K0I2J4": {
+   "bill_no": "2216839",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2H6H0F2G0E4F0N9O2M6M0K2J8K1F5": {
+   "bill_no": "2216732",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2N6M0N1L2L6H1F5G1E4F3D2E6M8M9": {
+   "bill_no": "2216669",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2K6I0I1H2H9G1H0O1P4N5O4M4K0L3": {
+   "bill_no": "2216611",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2H6G0G1O1O6N1O5M5M6L2L9T3S1S8": {
+   "bill_no": "2216537",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2R6P0Q1Y2Y8W1X7W4W6U5V5D5B5C4": {
+   "bill_no": "2216488",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2L6J0K1I1J3Y1Z1X4V6W4U8V9C9D5": {
+   "bill_no": "2216487",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_X2T6T0S1S2Q6R1P1X0Y4W5X3V8V1U9": {
+   "bill_no": "2216455",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_N2N6L0K1L2S8T1R0S4Q1R2P8Q5X1W2": {
+   "bill_no": "2216438",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2Z6H0F1G2E7E1C4E5L7M2K8L9J6H5": {
+   "bill_no": "2216393",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2A6Y0Y1X2T7T1R4S5Q6R4P3Q1Y8W2": {
+   "bill_no": "2216392",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2E6E0D1B2C1K1K1I0J3H5I7H3O3P2": {
+   "bill_no": "2216375",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2T5R1S2Q1Q1P1L0L5J6K2J6J3H8P7": {
+   "bill_no": "2216341",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2P5P1O2O0W3W1V4T5U0S0S8B8B7Z5": {
+   "bill_no": "2216331",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2R6P0Q1O1K6L1J5J0H3I3H1H8P7P5": {
+   "bill_no": "2216284",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2Q6R0P1Q1Y6Y1W5V0W5U0U4C8D6B3": {
+   "bill_no": "2216281",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2C5A1Z2A3Y0Y1G6H1F9G3E8F5D7Z9": {
+   "bill_no": "2216159",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-03"
+  },
+  "PRC_Y2Z5Y1Y2W3X0W1D6E1C2C0B9C1A8B1": {
+   "bill_no": "2216154",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2A6Y0X1X1N5O1M0M0K0M2K6K1S6T0": {
+   "bill_no": "2216112",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_E2C5D0B7B1A8G1G1E1F9R2S3Q9R6P6": {
+   "bill_no": "2216069",
+   "name": "도시교통정비 촉진법 일부개정법률안",
+   "committee": "국토교통위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-05-07"
+  },
+  "PRC_K2I6J0R1Q0Q8O1P1N2O4J0K8J3H5H2": {
+   "bill_no": "2216038",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2P6Y0Y1W0X8V1W5U4C5D4B8B8A0A7": {
+   "bill_no": "2215987",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_F2D6C0D1B0B5K0K9I2J4H1G3G4O5P9": {
+   "bill_no": "2215882",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_E2C5D1L2M3K0K1J7H3I5Q3Q0P6P8N5": {
+   "bill_no": "2215857",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_B2A5W1W2U3V0T1U4S5T9B0B6Z0Y9Y7": {
+   "bill_no": "2215826",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_V2T5T1S2Q3R0Z0Z8Y5Y6X4X3V1R5S3": {
+   "bill_no": "2215821",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_U2S5S1A2B3Z0A1Y5Z4X4T5T4S0S6Q3": {
+   "bill_no": "2215803",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-03-31"
+  },
+  "PRC_C2D5B1C2A2I9J1H0H1G7G3F2F8B7B2": {
+   "bill_no": "2215799",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "ARC_I2S5X1S2Y2S4I0J9G2G8G2Y8U8J3G0": {
+   "bill_no": "2215562",
+   "name": "도시교통정비 촉진법 일부개정법률안",
+   "committee": "국토교통위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_F2N5O1M2M1L5L0K9F4G0E1F5D2E2C0": {
+   "bill_no": "2215528",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-05-07"
+  },
+  "PRC_Z2X5Y1G2E0F4D1D7B5D5Y3Z1X4X1W2": {
+   "bill_no": "2215503",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_R2T5B1O2S0Z1K1R9S1D7P2P0N9M5C1": {
+   "bill_no": "2215423",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(대안)",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_J2Z5N1G1P2Q0X1Y5U4Z1K0A9N4V9K4": {
+   "bill_no": "2215402",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_C2K5K1J2K1I7I1H7H4D9B5C1A4B6Z5": {
+   "bill_no": "2215386",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2Q5O1P1N0N7V1U6U5S3T0R9S2O0O4": {
+   "bill_no": "2215270",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2O5P1N2M1M0U1U0S4U4S0S1Q0R3Z4": {
+   "bill_no": "2215232",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_M2M5U1U1T2R8S1Q4Q3M1N2L9M1K3J8": {
+   "bill_no": "2215177",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2F5G1E1E2D6E1C8C0S3Q1Q2P9Q8O3": {
+   "bill_no": "2215151",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_W2X5E1F2D1E0D0D9B1C9K3I1J3H5I6": {
+   "bill_no": "2215083",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2C5B1B2J0J8I1G7H1F5G0O1O2N1N0": {
+   "bill_no": "2215044",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2V5T1U1C2C7A1B1Z1A7Y2Z3H5H8F9": {
+   "bill_no": "2215027",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2D5C1C1K2L4J1K5I1I3H2P9P5N9P1": {
+   "bill_no": "2214986",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-05-07"
+  },
+  "PRC_H2H5C1Y1Z2K6L1I3B5O0Y5B0E2D4P8": {
+   "bill_no": "2214874",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안(대안)",
+   "committee": "정무위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_K2L5J1J1F0E3E1C0D0C1C5K5K1J2H4": {
+   "bill_no": "2214753",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2I4J0I5G3F1N1O5M4U3T2S3T6R7Z3": {
+   "bill_no": "2214696",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2Z5Z1Z1N1L8D1V2R0I6S4D5Y2R1W2": {
+   "bill_no": "2214599",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_I2H5F1G1N1P8N1N7L2M3K2G7H5F0G7": {
+   "bill_no": "2214552",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "ARC_E2U5X1X1P2M0L1P0Q1S5X4G8O3P8N5": {
+   "bill_no": "2214421",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_M2N5V1V1U1U8S0R9S1Z9A2Y2Z5X3Y7": {
+   "bill_no": "2214380",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-04-23"
+  },
+  "PRC_D2K5L1J1K1J4H1H0P4P3O4P8N4N9M0": {
+   "bill_no": "2214346",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2Y5Y1W1X0W4W1U3V3D0B2C3A3B1Z5": {
+   "bill_no": "2214336",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_O2O5N1O1M0M4K1T3T3R1S3Q5R3P4Q5": {
+   "bill_no": "2214304",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_E2F5N1N1L0M4L1J3J3F2F2E6F7D1D1": {
+   "bill_no": "2214260",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2U5S1T0R3Q1Q1M5N2L6L0K4I7J0Q7": {
+   "bill_no": "2214245",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_O2M5N1L1M1U0V1T5T4R3S3R9M9N9L3": {
+   "bill_no": "2214175",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_V2U5S1T1R0S7N1O6N4L1L4K7L8S5R7": {
+   "bill_no": "2214142",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_F2I5E0E9L1G1B2M0V0W9Y4K8H8A4F7": {
+   "bill_no": "2214116",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_X2X5V1W1E0F3D1D7B2A0B4I9J4H0I6": {
+   "bill_no": "2214110",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2L5E0D9N0P9E1M8D3M9D2G4K6Q0N0": {
+   "bill_no": "2214103",
+   "name": "유통산업발전법 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_U2U5T0T9S3Q0Q1G0H5F6G3E4D0D9L1": {
+   "bill_no": "2214095",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "수정가결",
+   "law_result": "수정가결",
+   "proc_result": "수정가결",
+   "proc_dt": "2026-09-03"
+  },
+  "PRC_G2E5F1D1E0C3Y1Y5X1X8V1W4V1V5D3": {
+   "bill_no": "2214010",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_R2Q5Q1O0P1X6Y1W5W4V8V5U5C4C7A1": {
+   "bill_no": "2213635",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_O2W5X1V0V1U5S1T6A4B6A4A7Y2Z9X5": {
+   "bill_no": "2213631",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2I5J0H9G0G1E1F6N5N5M4K1L7K1K5": {
+   "bill_no": "2213555",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2J5S0Q9Q2P2P1O3O4K7K5J7H3I4G5": {
+   "bill_no": "2213500",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-04-23"
+  },
+  "PRC_M2M5K0T9T2R3S1Q0R2P1Q3L2M1K6J4": {
+   "bill_no": "2213310",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2I5L0C9U1W7S1S4C1E6D1F0L7N9M0": {
+   "bill_no": "2213232",
+   "name": "관광진흥법 일부개정법률안(대안)",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-10-26"
+  },
+  "PRC_B2G5H0G9E1N2L1K6J5R5P3O0P3O3W6": {
+   "bill_no": "2213042",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-03-31"
+  },
+  "PRC_F2F5B0Y8X1G1C1C0L3H6Y1X6E2D6C7": {
+   "bill_no": "2213029",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2B5A0I9J1H2G1F1N3M4K0J9K8S9R6": {
+   "bill_no": "2213019",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_M2U5T0S9Q1Z0Z1Y7W2K3J4I3J4H6D7": {
+   "bill_no": "2212941",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_P2Q5O0O7W2X8V1U3U2S1T0B0B7A5A3": {
+   "bill_no": "2212793",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2B5B0Z9I0I1G1H8F5E8E3M6N3L0K9": {
+   "bill_no": "2212720",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_S2A5Z0Z8Y2W0F0D9E3J5F0D6C7C1B8": {
+   "bill_no": "2212623",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2F5E0F8D2C0D0L9K3J5H5Q9O7N2O6": {
+   "bill_no": "2212622",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_L2T5S0R8P1L8M1L6J3I2Q0P5Q7O0Q5": {
+   "bill_no": "2212608",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2R5O0M8L1J8K1S6R3Q1O0S2R6Z7Y2": {
+   "bill_no": "2212607",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2I5J0H8H2G7E1F5N4O0M0K4L1J0K3": {
+   "bill_no": "2212526",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2O5M0M8L2M7T1U6T5R2R3P5Q8M4M4": {
+   "bill_no": "2212489",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_H2H5P0Q7O2P4N1O1M1M4I3H8H2F5G1": {
+   "bill_no": "2212354",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_Q2P5O0M8R2P0O1M6U3V2U3S6R9Z9A5": {
+   "bill_no": "2212341",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_X2G5F0C8K1K1H1U1I1H8E1B6A9Y2Y7": {
+   "bill_no": "2212318",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_G2E4D1E0C1L0J1I3H4H3P4O1M9L4M8": {
+   "bill_no": "2212227",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2H5G0F8F1O1N1L0J5F3O2M9L9M7K2": {
+   "bill_no": "2212212",
+   "name": "지역상권 상생 및 활성화에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "원안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-12-02"
+  },
+  "PRC_K2J5I0P8O0N7M1G0F5E6N0W4V9S5I9": {
+   "bill_no": "2212175",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_D2B5C0B7B2J3J1I5G3H7F1G9N3O9N0": {
+   "bill_no": "2212115",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_H2I5G0H7F2G3B1C5A3Y8Z0X1Y0G8H9": {
+   "bill_no": "2212114",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2V5V0T7V0C4D1B5C3A1Y4Z8V8V0T1": {
+   "bill_no": "2212110",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2O5P0L7L2J1K1I7H0H3P5Q9O1P6N9": {
+   "bill_no": "2212036",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_E2U5B0J7G2I9Y1R4E4V2J1K9C6S8Q8": {
+   "bill_no": "2211929",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(대안)",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_Q2Q5P0N7N1J1K0I9J5H3G3G8O6O0M5": {
+   "bill_no": "2211760",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-05-07"
+  },
+  "PRC_R2S5N0M7N1L0L1K7K3S6T4R3S0Q9O0": {
+   "bill_no": "2211738",
+   "name": "온라인플랫폼 공정화법안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2P5N0P7N2N1L1M0U3S7T5R6S5Q4R7": {
+   "bill_no": "2211675",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_B2C5J0K7J1H6H1G1G3O5P5N9O6M3M6": {
+   "bill_no": "2211597",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_V2T5U0S7A0B3Z1Z6Y2Y8W5X8F3G8E0": {
+   "bill_no": "2211573",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2B5C0A7Z1Z1X1Y0G5G8E4G3E2E3C6": {
+   "bill_no": "2211492",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_P2Q5Y0Y6W2X3W1U0U4C5C2B0C8A0A0": {
+   "bill_no": "2211240",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2O5M0M6U1T9T1S8S4Q1R0Z8A7Y0Y9": {
+   "bill_no": "2211204",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-04-23"
+  },
+  "PRC_C2B5B0X6Y2W5U1V5T1U2B3C0B7B0Z6": {
+   "bill_no": "2211144",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_R2S5R0R6P2Q7P1W1X4V9W3U0V2T2B7": {
+   "bill_no": "2211138",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_B2Z5A0Z2Z2H7H1G3E5F3D1E0A3A8Y9": {
+   "bill_no": "2211054",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2C5D0B6B1Z9Y1Z6U1V5T5U7S4T4R7": {
+   "bill_no": "2211037",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_Z2Z5Y0W6X1V8V0R9S2Q0R1P5Q3O3O2": {
+   "bill_no": "2211001",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_E2C5A0B6J1J2H1I1H3H5F3N5O2M2N9": {
+   "bill_no": "2210925",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_L2M5U0U6T1T1R1S4R0Y9Z2X1Y2W8W1": {
+   "bill_no": "2210914",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_V2W5U0U6T1T3S1A4A3Y1Z1Y0Y5W2E6": {
+   "bill_no": "2210889",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_P2N5O0W5W2V1T1U4S4T5B2B4Z5Y2Y8": {
+   "bill_no": "2210872",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_E2D5D0B4C2A8B1X9X4V5W2U4T6T3B8": {
+   "bill_no": "2210839",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_B2C5J0K6J0J9H1I0H0O9P3N4O5M1N6": {
+   "bill_no": "2210832",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-10-26"
+  },
+  "PRC_D2E5M0M6L1L1J1K4J2Q2R3P4Q6O0P6": {
+   "bill_no": "2210768",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2J5J0I5I1G2F0G9N0O7M2N4L9L8K2": {
+   "bill_no": "2210743",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-10-26"
+  },
+  "PRC_J2I5I0H5H1P2Q0O9N0N6L4M5I4I4G3": {
+   "bill_no": "2210721",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-10-26"
+  },
+  "PRC_V2W5U0V6T1R0S1A0B2Z7Z0Y5W2X1F5": {
+   "bill_no": "2210718",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_I2D5C0D6B0B9Z1A6I2J4H1H7G3G4F5": {
+   "bill_no": "2210710",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2D5C0A5B1I5J1H5I3G5H5F7G1O6M7": {
+   "bill_no": "2210705",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2K5J0K5I2I2G1H5P3Q7O4O3N5N2M3": {
+   "bill_no": "2210628",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2B5Z0A5H0I2G1F1F0D3E1M0N8L2M1": {
+   "bill_no": "2210534",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_V2V5T0U5S1A2B1Z0A5Y7Z2X4Y1G2E5": {
+   "bill_no": "2210484",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_F2O5O0M5N0L1M2K1L2H9H2G1E9E4D2": {
+   "bill_no": "2210456",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2R5P0P4Y1W4W1U8V1U1U4C6B8B4Z0": {
+   "bill_no": "2210339",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2G5H0F1G0E6F1D1D1L6K5K4I9J7I9": {
+   "bill_no": "2210309",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_I2H5P0O3M2V5U1V3T5S0A4B7Z5Y7X2": {
+   "bill_no": "2210296",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_J2M5X0R4H1A7E1P3E3M5J3M2S4P1Q3": {
+   "bill_no": "2210292",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-05-01"
+  },
+  "PRC_V2W5V0U3S2A5B1A3Y5X2F0G9E9D2C3": {
+   "bill_no": "2210250",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_C2D5B0C4K1K7J1J4H3I3H5O3P7N0O1": {
+   "bill_no": "2210169",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_M2A5B0Z4A2Y3Z1X7F1G1E2F9D4E5C3": {
+   "bill_no": "2210132",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2E5D0B4B0A4A1I5J5H1I4G4E1F2N7": {
+   "bill_no": "2210116",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_Q2R5P0P3Y3Y1W1X6V3U5U4Q8Q6P6P0": {
+   "bill_no": "2209942",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2H5I0G4H0F9G1E2A1A8Z2Z5Y1Y7X9": {
+   "bill_no": "2209760",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_Y2W5V0V3T3V1C1D6B0A3A1Y9Z3O4P4": {
+   "bill_no": "2209693",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2S5Q0Y3Z2A0Z1X5W1E8E3D1C4A7I8": {
+   "bill_no": "2209692",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2U5C0A3Z2A0Y1G5F2G0G2F2G2N5M1": {
+   "bill_no": "2209688",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_H2P5O0M3N2M8U0S7T5S2R1G0E2F1E7": {
+   "bill_no": "2209622",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_J2K5I0J4H0G2G1O6P1N9N4M0K2L0T3": {
+   "bill_no": "2209619",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_S2T5R0S4Q0R1P1Q8X5Y0W5V5V4T7U9": {
+   "bill_no": "2209577",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "수정가결",
+   "law_result": "원안가결",
+   "proc_result": "수정가결",
+   "proc_dt": "2026-10-01"
+  },
+  "PRC_B2A5Z0X3T2U4G0E9A4Z9A4Y4X9F2G9": {
+   "bill_no": "2209559",
+   "name": "도시교통정비 촉진법 일부개정법률안",
+   "committee": "국토교통위원회",
+   "cmt_result": "수정가결",
+   "law_result": "수정가결",
+   "proc_result": "수정가결",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_Y2W5V0D3C2K7I1J7I3G7D1B1A1B4Z8": {
+   "bill_no": "2209538",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_N2M5N0M3H2G4F1G0E1M1L4M3K5J5R8": {
+   "bill_no": "2209506",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_H2I5G0G3E1D0E1L5M3L7L4J2I1I5Q3": {
+   "bill_no": "2209457",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_A2Y5G0H2F1F8E0E8D2L3L0J4K8J4J1": {
+   "bill_no": "2209404",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_A2Y5Z0X3W2E1F1D5C0B2X4W4X8V8T7": {
+   "bill_no": "2209367",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_X2V5W0D3F1D0D1B1A1B9I0J9I5I4G0": {
+   "bill_no": "2209179",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_I2G5O0P3O1M8L1M0H4G1F0D4E3M9L1": {
+   "bill_no": "2209160",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_C2K5L0K3J1H9P0Q8P5N9L4M9V1T4U4": {
+   "bill_no": "2209146",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2F5E0C3M1L9J1K4S0R3P0O9W6X6W2": {
+   "bill_no": "2209134",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2N5L0K3L1J0J1R1S1Q8R0P5O9O7W0": {
+   "bill_no": "2209106",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_T2R5Q0R3P0P4Y1Y1W1X1V3U4U5C3C8": {
+   "bill_no": "2209002",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2V5W0S2S2R7R1P6Q1P0W4X4W9W3U2": {
+   "bill_no": "2208932",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2S5Q0R3Z1Z0X1W4X1V5U2U2S9T7B2": {
+   "bill_no": "2208852",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_K2I5J0Q2P2Q5O1O7N0O1J0K9I1H5H6": {
+   "bill_no": "2208842",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_R2S5Q0R3P0N5O1J5L5J6J2H3I4G0O1": {
+   "bill_no": "2208689",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_N2V5V0U2S1T1R1S0N0O6M3L9L1K4K3": {
+   "bill_no": "2208644",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_B2D5B0B2X1V2W0U9V1T4U5B1A5B1Z6": {
+   "bill_no": "2208642",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_R2Z5A0Y1Y1X4Y1W4W0S3R3R7P4Q3P7": {
+   "bill_no": "2208578",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2W5X0V2U2U4C1D8B2C8A0B8Z7H8I2": {
+   "bill_no": "2208421",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-05-01"
+  },
+  "PRC_H2I5G0H2F2G0O1M0M0L2M3K9K4S4R9": {
+   "bill_no": "2208410",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_S2O5O0N2L1M7K1L0S3T1S4S4Q7P2P2": {
+   "bill_no": "2208378",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_N2O5J0K2I0J4H1I5G2H6P3N4N9M4N4": {
+   "bill_no": "2208345",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2N4M1N2U2V3U0U9S0T1R0Z9A2Y9Z7": {
+   "bill_no": "2208267",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2I5I0H2I1G0E1F7N4N1L2M8L1L6K2": {
+   "bill_no": "2208203",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_V2C5D0C1C0B6Z1Z1H2I7G2H2F4E4E7": {
+   "bill_no": "2207971",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_S2T5R0R1P1O3P0K9L5J5K4I8H1H3P1": {
+   "bill_no": "2207683",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_Z2A5Y0Y1X1V4D1C4A4B0J5J0H2G4H6": {
+   "bill_no": "2207513",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2X4F1G2E1F7D0C8C4Y5Y2X6X5V6U3": {
+   "bill_no": "2207373",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "철회",
+   "law_result": "",
+   "proc_result": "철회",
+   "proc_dt": "2025-06-13"
+  },
+  "PRC_N2V4W1U1U0T7U1S6O4O9M3O7M9M4K2": {
+   "bill_no": "2207261",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_X2W4X1F0E0C3D1C2K0J1H1I7G9O2N4": {
+   "bill_no": "2207057",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2W4W1U2V1U2U1C7A3B8Z3A9Y7Z1G8": {
+   "bill_no": "2207007",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2O4A1M1Q2D5F1D2Q2P4P2A9F5S5F9": {
+   "bill_no": "2206954",
+   "name": "관광진흥법 일부개정법률안(대안)",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2024-12-31"
+  },
+  "PRC_Z2L4K1A1I2Q2K1H3Q5A3F1D9W0H6K0": {
+   "bill_no": "2206929",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "원안가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2024-12-27"
+  },
+  "PRC_P2P4O0N5L3U1S1T6A1Z9X3G8E4D3C5": {
+   "bill_no": "2206847",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_E2E4D1D2C1K0K1J1J2H4I0G0H3D1B7": {
+   "bill_no": "2206832",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2H4G1G1E2F9N1O2M5K2L0J5J3G8G8": {
+   "bill_no": "2206783",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_S2Q4R1P2X1Y6W1X3V2V9U4C4C4A5C9": {
+   "bill_no": "2206777",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_K2L4J1K2I1I6R1P3P3O0P3N4N6W1U6": {
+   "bill_no": "2206758",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_I2I4H1P2P1N8O1N7N5L2U5U1S5T7R9": {
+   "bill_no": "2206750",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "원안가결",
+   "law_result": "원안가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-05-01"
+  },
+  "PRC_G2H4G1E2E1M6N0L8M0B1C0J5K0J8J2": {
+   "bill_no": "2206690",
+   "name": "지역상권 상생 및 활성화에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2P4P1L2L1K0L1J1J2I0Q4Q4O8P0O3": {
+   "bill_no": "2206522",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-05-01"
+  },
+  "PRC_V2D4D1C2C0B9Z1Z6H1I4G3H9F8E0E8": {
+   "bill_no": "2206408",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2Z4X1Y1G2H8F1F8E1C0D3Z6Z2X5Y6": {
+   "bill_no": "2206203",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_X2Y4W1X1V2U9U1C7D2B4B4A9Y2Z5U6": {
+   "bill_no": "2206171",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_J2U4H1J1I2W1O1L8K0A6B4E5H9Y6H7": {
+   "bill_no": "2205973",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(대안)",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안가결",
+   "law_result": "원안가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_H2H4D1E1C1C8B1Z9A1I1I1H3H2F9G0": {
+   "bill_no": "2205923",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2Q4O1W1X0V8V1U1V0T9T3C9A3A7Y8": {
+   "bill_no": "2205906",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "수정가결",
+   "law_result": "수정가결",
+   "proc_result": "수정가결",
+   "proc_dt": "2025-03-20"
+  },
+  "PRC_T2T4R1A1A1Y8Z1X7Y5W0X2S0R1R5Q6": {
+   "bill_no": "2205863",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_V2W4U1V1Q2R2P1Q6O0N7N2V6V9U8V6": {
+   "bill_no": "2205831",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_R2R4P1Q1P1P4N1O5W0U7V4T1U4S0S9": {
+   "bill_no": "2205701",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_B2Z4A1I1I1H1F0F9E4F8M2L6L0K3L1": {
+   "bill_no": "2205692",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-05-01"
+  },
+  "PRC_V2V4U0U6C1B0B1Z3A4Z9Z1H6H7G2G5": {
+   "bill_no": "2205665",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 전부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_H2I4G1H1F1E3E0M9N5L0K2K4I2J4R6": {
+   "bill_no": "2205581",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2V4D1B1C1A1B1Z1A4V6U0U7T2U9S8": {
+   "bill_no": "2205564",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_E2F4A1Z1Z1Y1Y1W0X4F5F1E6E8D9B1": {
+   "bill_no": "2205548",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-08-04"
+  },
+  "PRC_I2G4H0F9F0E5A1A3Y2Z0X5Y8W1X5E4": {
+   "bill_no": "2205478",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2Q4P1L0K2J5H0I9Q3P4O0M8V3T1U7": {
+   "bill_no": "2205299",
+   "name": "지역상권 상생 및 활성화에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2E4D0C9D2B7X1W0X4V9U1C4D2B3A0": {
+   "bill_no": "2205255",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2W4X0W9S2Q7P1Q0O4X8V4U1V0T3B4": {
+   "bill_no": "2205254",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2O4P0N9O2V3W1V1T3T8R0T4O3P0N5": {
+   "bill_no": "2205190",
+   "name": "온라인 플랫폼 시장 독점규제에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_O2P4N0O9M2M3U1T1T3S9S1Q4R7Z9A1": {
+   "bill_no": "2205188",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2S4T1A0B1Z6A1Y7X5X1F1G2E2F0D5": {
+   "bill_no": "2205150",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_K2J4I0Q9R3P0V1U3S2R2S1A1Y6X4Y5": {
+   "bill_no": "2205103",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2O4V1W0V1V7T1U6T0A8B4Z9A6Y5Z0": {
+   "bill_no": "2205090",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_W2W4V0W8U2U1C1B1B0Z8A4Z9Z1H0F6": {
+   "bill_no": "2205044",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2X4W1X0V2U8Q1P3P3O5N1V9T9U3T6": {
+   "bill_no": "2204980",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_O2M4N0M9T0U2S1T7R3S0Q5Q3N3L4L5": {
+   "bill_no": "2204971",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2H4F1F0D1T6T1R5S3Q1R5P1Q9Y2W9": {
+   "bill_no": "2204948",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_V2U4T1N0N1B8A1Z3V4S2R2A9Z7W5E2": {
+   "bill_no": "2204832",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2R4P0P9N1W2W1U3V3U2U0S2T5B4Z8": {
+   "bill_no": "2204802",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2K4J1H0F1G1C1B0A0Y6Z0H0F2E1D3": {
+   "bill_no": "2204794",
+   "name": "온라인 플랫폼 독점규제 및 거래 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2B4A1I0G1F5G1E0B3Z1Y1Y4X8F0E1": {
+   "bill_no": "2204777",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_K2L4J0K9I0E4E1D6E0C9B5B0J1K8I1": {
+   "bill_no": "2204751",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-12-31"
+  },
+  "PRC_R2Q4R1Q0Y1W0U1V5U5C1B0Z0A9Z6V9": {
+   "bill_no": "2204734",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_Y2Z4X1V0D1E0D1C8A5J9H4I8H0F9N2": {
+   "bill_no": "2204679",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2M4V0T9S2R4A1W8V0D2D4B5A2X7W5": {
+   "bill_no": "2204656",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2F4G0E9F1D9D1C7D5K6L2J6K9I6G4": {
+   "bill_no": "2204538",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_I2H4M0L9T2U6T1R3P3Y8X1V8W9V7Q6": {
+   "bill_no": "2204514",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2Z4X0Y8X0V2V0D8E5C5D2B1A8A4W2": {
+   "bill_no": "2204513",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2N4V0U9V2U6S1A3B3A7Y1X8F6B5Y5": {
+   "bill_no": "2204512",
+   "name": "온라인 플랫폼 독점규제에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2B4K0I9H2I7G0C9B4I6G5F0G8O4M2": {
+   "bill_no": "2204483",
+   "name": "지역상권 상생 및 활성화에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2W4X0S9R1S9Q1Q8P5P6X1Y2W6X1V3": {
+   "bill_no": "2204346",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_J2F4K0Z9J0R2C0A9Y1A9W1D8A5W9A2": {
+   "bill_no": "2204304",
+   "name": "관광진흥법 일부개정법률안(대안)",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안가결",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2024-09-26"
+  },
+  "PRC_T2T4B0C9A0Z9Z1Y3Y1G5H5F9E8E6C2": {
+   "bill_no": "2204263",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_B2B4A0A9I0G6G1E7F0N4N3L8K0L8J5": {
+   "bill_no": "2204253",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2Z4H0H9F0H6F1F6D2Z8A0Y2Z7X0Y8": {
+   "bill_no": "2204237",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2Z4X0Y9W0X9V1D4E3C4D1B8C6A6A4": {
+   "bill_no": "2204234",
+   "name": "온라인 플랫폼 독점 규제에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2T4R0S8R1P2P1L4M0K8K2J4K6I9I6": {
+   "bill_no": "2204074",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "수정가결",
+   "law_result": "수정가결",
+   "proc_result": "수정가결",
+   "proc_dt": "2025-02-27"
+  },
+  "PRC_I2G4O0M7I2H3F1E2F4N4M1K3J7R8Q2": {
+   "bill_no": "2204069",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2M4M0K8L2J8R1S4Q0R3P4P1O9P4K2": {
+   "bill_no": "2204040",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2B4B0A9B1Z2Z1H3I4G5F0F3D6E4M5": {
+   "bill_no": "2204035",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2V4T0T8R1Q6R1Y1Z4X7Y0W6X7V3W4": {
+   "bill_no": "2203942",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2X4X0W9W0V2C1D1B4C9A2B6Z4V6W5": {
+   "bill_no": "2203831",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_C2Z4H0H7N1M8L1K0Q0P4O4X9U5T0Q2": {
+   "bill_no": "2203829",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2V4V0U9S0T2R1S1A4Y8Z2X1Y7W9S8": {
+   "bill_no": "2203817",
+   "name": "온라인 플랫폼 독점규제 및 공정거래에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_M2L4K0T7P1O8X1W0V0K4T2Q8P8X8W5": {
+   "bill_no": "2203782",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2N4L0M8U2T8T0R8S5R3R1Z9Z7Y2W7": {
+   "bill_no": "2203769",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-12-31"
+  },
+  "PRC_Q2N4M0V7B1A8Z1Y0U0T4Q0Z7Y1H3G2": {
+   "bill_no": "2203728",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2A4B0Z9Z0I3I1G3H5F1E3E5M8N3L2": {
+   "bill_no": "2203667",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Z2G4F0M7L1K8J1P0O0O3T4S8R2Y5X4": {
+   "bill_no": "2203665",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2B4C0A8A3Y0X1Y6F2G5F5F6D3E8C2": {
+   "bill_no": "2203644",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-09-17"
+  },
+  "PRC_N2M4M0K8L3T0T1S6Q3R1P0Q2Y3W3X8": {
+   "bill_no": "2203634",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2R4A0Z7Y1E8D1H0E0D3L2K7K0I1E3": {
+   "bill_no": "2203612",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2L4M0K8L2J1K1R4S2Q6P1P8O4O4K0": {
+   "bill_no": "2203577",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_H2G4G0O8O2N1O1M4M2L3L0T8S8S6Q0": {
+   "bill_no": "2203574",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2V4V0U8S2T2R1S7H2H5F4E3F7D6E5": {
+   "bill_no": "2203349",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2L4A0W8L1E9F1H6H4Y4Y1U1J5I4D6": {
+   "bill_no": "2203267",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안(대안)",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안가결",
+   "law_result": "원안가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2024-08-28"
+  },
+  "PRC_O2P4N0L8M2U7U1S5T3S1S0Q1R9Z6X4": {
+   "bill_no": "2203261",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-01-29"
+  },
+  "PRC_H2F4G0O8P1N3N1M3K5L9S2T1S0S0R5": {
+   "bill_no": "2203201",
+   "name": "도시교통정비 촉진법 일부개정법률안",
+   "committee": "국토교통위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2026-05-07"
+  },
+  "PRC_Y2Z4X0Y8F2G0F1F6D1E6C2D9L7J9K6": {
+   "bill_no": "2203161",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2D4C0A8B2Z0A1I5I2G4F2G5E7E3N4": {
+   "bill_no": "2203140",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2Q4O0P8N1O9W1W0V5T4U2S9T0B6B9": {
+   "bill_no": "2203059",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2Y4Z0X8X1F9E1E0C5D5B4C8Y0Y0W6": {
+   "bill_no": "2203057",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "ARC_X2B4L0Y8E2E0J1G8K1T0I5F9C0D7Q4": {
+   "bill_no": "2203012",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_M2L4M0U8U2S0T1R4Q5Q9Y4Z2X9Y6W7": {
+   "bill_no": "2202997",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-12-27"
+  },
+  "PRC_F2F4B0A8A1Z6Z1X7F0G3E0F0D8E0D7": {
+   "bill_no": "2202983",
+   "name": "온라인 플랫폼 중개거래의 공정화 및 독점규제에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2B4C0B8B1Z2A1Q1Q2P6N0O9M7M0V3": {
+   "bill_no": "2202973",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2Z4X0V8W1E9E1D1D2B8A3B8W8X4V8": {
+   "bill_no": "2202954",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 전부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_G2N4O0M8N0M8K1K1T2T1R4Q8Q2P4P6": {
+   "bill_no": "2202941",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_B2Z4Z0X8Y0G9E1F5D2E3C4C8K8L9J8": {
+   "bill_no": "2202927",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_B2B4F0G8E1F2D1E6C3C8K3L3J5J5I2": {
+   "bill_no": "2202849",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2S4A0B8Z0A9Z0X8X5F6G4E2F4D9B5": {
+   "bill_no": "2202767",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-27"
+  },
+  "PRC_Q2X4Y0X8V0V7T1U1C3C2B2C0A3A3Y9": {
+   "bill_no": "2202746",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2X4V0W7R1S2R1R0P0Q0O2W3X4V9V4": {
+   "bill_no": "2202709",
+   "name": "온라인 플랫폼 공정화법안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2O4N0N8L0M8K1L3T2R5S5R8R0P6X1": {
+   "bill_no": "2202667",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2Z4X0Y7W1X1T1R4R3P5Q2P5P7X3W8": {
+   "bill_no": "2202638",
+   "name": "이행강제금 규정 정비를 위한 가맹사업거래의 공정화에 관한 법률 등 10개 법률의 일부개정에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "수정가결",
+   "law_result": "원안가결",
+   "proc_result": "수정가결",
+   "proc_dt": "2024-12-27"
+  },
+  "PRC_T2S4S0R8R0Z5Z1Y4W3X8V3W9S3Q1R7": {
+   "bill_no": "2202622",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2Q4R0P8Q0O7P0N8N4W9U4U8T1U8S9": {
+   "bill_no": "2202620",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_E2M4K0L8J0K5I1E3F2D2D1C9D3B4B4": {
+   "bill_no": "2202594",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Q2Q4P0N7O1K5K1J1J0I9G5H8O3P3N6": {
+   "bill_no": "2202546",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_R2S4Q0R8Z0A1Y1Y5W4X9W1E4E5C6D1": {
+   "bill_no": "2202523",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_C2B4Y0H7G1E8F1E0D3A8X1W5J8I2F6": {
+   "bill_no": "2202509",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 전부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-12-30"
+  },
+  "PRC_I2G4H0F7G1O7O0N9L5M9K1L1S5R5S5": {
+   "bill_no": "2202347",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_Z2X4F0J7J2R5Q1P0N4O6K0J5I2G9O6": {
+   "bill_no": "2202327",
+   "name": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2W4V0R6P2O7P1N4U3C0B5A6A2Z3I5": {
+   "bill_no": "2202306",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "원안가결",
+   "law_result": "원안가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2024-12-27"
+  },
+  "ARC_W2B4Z0Q7W2M6A1C1J3I2H5O9J3W6U0": {
+   "bill_no": "2202285",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-12-31"
+  },
+  "PRC_Q2N4L0K7I2Q4P1Q0P1O2W4U4T1U5T9": {
+   "bill_no": "2202253",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "ARC_R2I4Y0W7D2H3Q2G0C2T6S2K6B3H4Q5": {
+   "bill_no": "2202169",
+   "name": "경제 형벌규정 개선을 위한 대규모유통업에서의 거래 공정화에 관한 법률 등 4개 법률의 일부개정에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "ARC_G2S4M0X7L2A3H1K7T0A0N3L3F4V4W9": {
+   "bill_no": "2202160",
+   "name": "경제 형벌규정 개선을 위한 도시교통정비 촉진법 등 5개 법률의 일부개정에 관한 법률안",
+   "committee": "국토교통위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_T2S4T0A7Z1A0Y1Z6X3X3T4S5S5R0R4": {
+   "bill_no": "2202054",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2B4C0L7J1I8G1C7D2C2A5N3O2D5C0": {
+   "bill_no": "2202041",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_T2R4Z0A7Y0Y4X2X0V3S8S3Q1R9P9Q4": {
+   "bill_no": "2201915",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2025-11-13"
+  },
+  "PRC_Y2X4E0F7D1E2C1D0B5C2J3I1J4H2H7": {
+   "bill_no": "2201903",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-09-26"
+  },
+  "PRC_T2S4R0N6L0M3L1K0S3R0U5T9S4R9Y4": {
+   "bill_no": "2201885",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-09-26"
+  },
+  "PRC_A2I4J0H7I1G6H1F4G2O2M3M9L3M5K2": {
+   "bill_no": "2201880",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_M2N4L0L7B1Z2Z1X0Z5X3X1F6G1E3C5": {
+   "bill_no": "2201837",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-09-26"
+  },
+  "PRC_T2R4R0Q7M1M6K0L8K3K4J1Q9R1Q5Q8": {
+   "bill_no": "2201805",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "ARC_R2K4Y0E7L1D6U0I9Q3S3F5E8X6M6C1": {
+   "bill_no": "2201776",
+   "name": "관광진흥법 일부개정법률안",
+   "committee": "문화체육관광위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-09-26"
+  },
+  "PRC_F2D4E0C7D0K1L1K3I2I2H2I3E2C3C3": {
+   "bill_no": "2201760",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_D2L4M0K7I0J9I1I4B3A0A1Z9A5Y5Y1": {
+   "bill_no": "2201730",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_X2X4W0W7E1F0D0B9C0B0B2J9J8I8G0": {
+   "bill_no": "2201613",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-12-27"
+  },
+  "PRC_I2J4I0I7H0F1F1B2C0A4B1Z3X5Y5G9": {
+   "bill_no": "2201560",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2F4D0L6K1L8R1S5R1P9X3W1V7C6D7": {
+   "bill_no": "2201530",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_M2N4M0K6T2R1Q1O7R1A1Y3X1W1E3D2": {
+   "bill_no": "2201511",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_G2H4F0G7E0F5M1N7M1K2K1I7K8F5G5": {
+   "bill_no": "2201501",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_Z2I4G0G7E0F2E1E6M3L1L2K4K5I1R9": {
+   "bill_no": "2201464",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_N2L4M0K7L0A4Y1Z0Y4Y2W2E7F8D9E0": {
+   "bill_no": "2201432",
+   "name": "온라인 플랫폼 독점규제 및 거래공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_V2D4D0C6J2I1H1D0A1Z4I5H9Q2P2J4": {
+   "bill_no": "2201430",
+   "name": "온라인 플랫폼 독점규제에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_U2Z4U0T6Z2Z1W1F0C1B5I5G8F1L5L8": {
+   "bill_no": "2201416",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "철회",
+   "law_result": "",
+   "proc_result": "철회",
+   "proc_dt": "2024-11-13"
+  },
+  "PRC_P2X4W0X6W2U8C1B1Z1A5Z3V8U7S5R9": {
+   "bill_no": "2201366",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_Q2O4N0V6U2V7U1S5O3N6L1M4L3T4S4": {
+   "bill_no": "2201314",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_S2Q4R0A6Y2X5V1W5S4Q2P2Q6G4F0D1": {
+   "bill_no": "2201048",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-08-28"
+  },
+  "ARC_K2X4M0W6A2O7S1C5O1G3I4R7N0I2L3": {
+   "bill_no": "2201047",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-08-28"
+  },
+  "ARC_X2U4V0V6I2D7Y1L5R0V7F0X4D9U7X5": {
+   "bill_no": "2201046",
+   "name": "자치입법권 강화 및 지방자율성 제고를 위한 도시교통정비 촉진법 등 3개 법률의 일부개정에 관한 법률안",
+   "committee": "국토교통위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "ARC_T2C4H0N6B2V7A1D4S0L9W2U7G5S8W7": {
+   "bill_no": "2201037",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "원안가결",
+   "law_result": "원안가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2024-08-28"
+  },
+  "PRC_N2U4W0D6A1J9H1O8L0G5E2P6M1T5R5": {
+   "bill_no": "2201030",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2E4D0D6B1C1B1B4J4H1I5G3H1F6G6": {
+   "bill_no": "2201014",
+   "name": "유통산업발전법 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_I2J4R0V6U2Q4O1N1O2N3V4U4S5R9S4": {
+   "bill_no": "2201000",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "심사미료",
+   "law_result": "수정가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2025-12-11"
+  },
+  "PRC_C2B4A0Z6Z2W1U1T5R5S7B4Z9X5W0E0": {
+   "bill_no": "2200945",
+   "name": "온라인 플랫폼 중개거래의 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2Z4H0F5E3D1E1M6L2J0N4M8K2S3T2": {
+   "bill_no": "2200869",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_L2M4K0J6H1I9E0D9B4A0I3J2H8G4E9": {
+   "bill_no": "2200770",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "산업통상자원중소벤처기업위원회",
+   "cmt_result": "원안가결",
+   "law_result": "원안가결",
+   "proc_result": "원안가결",
+   "proc_dt": "2024-08-28"
+  },
+  "PRC_F2F4E0C6D1B2C1J0K3I9J4H1G2G5O0": {
+   "bill_no": "2200689",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_A2B4Z0A6Y1Z3X1F5F2E7F1D3D1C4Y9": {
+   "bill_no": "2200585",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_C2L4I0H6Q1P4M1U3T5S3O3W9V8V4B3": {
+   "bill_no": "2200569",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "철회",
+   "law_result": "",
+   "proc_result": "철회",
+   "proc_dt": "2024-08-26"
+  },
+  "PRC_L2K4S0S6Q1R3Q1Q1P3X5X3W2W7U3T4": {
+   "bill_no": "2200559",
+   "name": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_F2G4E0F6D1T0U1S1T0R9S4Q8Q4Z1X3": {
+   "bill_no": "2200505",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_X2V4X0V6V0R7P1Q6P3P2N4V0W1U1V1": {
+   "bill_no": "2200371",
+   "name": "온라인 플랫폼 중개거래의 독점규제 및 공정화에 관한 법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_P2O4W0W6U1V0U0U8S5T2B0Z7A9Y9Z1": {
+   "bill_no": "2200309",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_B2Z4Z0I6F0G7E1F3A4B5A2Y8Y0X5X3": {
+   "bill_no": "2200301",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_S2T4J0V6F1K0E1M6G0B0A4O3G6F3R1": {
+   "bill_no": "2200260",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_K2J4H0G6C0C4B1Z6H4H9F1O9N3M1K0": {
+   "bill_no": "2200243",
+   "name": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
+   "committee": "정무위원회",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
+  "PRC_Y2V4U0D5B3A0V0U9T1C2B5J2I0H9G3": {
+   "bill_no": "2200088",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  },
+  "PRC_P2L4E0C5P3A0T1C7M2B3M3R3J7T2P6": {
+   "bill_no": "2200042",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "철회",
+   "proc_dt": "2024-06-10"
+  },
+  "PRC_B2A4P0U5Q3A0N1Y3B0B2N5Y7E1R2I2": {
+   "bill_no": "2200016",
+   "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
+   "committee": "농림축산식품해양수산위원회",
+   "cmt_result": "대안반영폐기",
+   "law_result": "",
+   "proc_result": "대안반영폐기",
+   "proc_dt": "2024-11-28"
+  }
+ }
+}
