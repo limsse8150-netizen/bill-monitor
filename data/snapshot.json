@@ -1,6 +1,15 @@
 {
- "saved_at": "2026-11-02 08:09",
+ "saved_at": "2026-11-03 08:17",
  "bills": {
+  "PRC_3F65E871A6874156932819F950AA73": {
+   "bill_no": "2222373",
+   "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+   "committee": "",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
   "PRC_3F84B2AE4F4C4E44A39DD47B3F46A4": {
    "bill_no": "2222222",
    "name": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
