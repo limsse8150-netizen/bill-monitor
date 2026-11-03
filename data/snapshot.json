@@ -1,10 +1,19 @@
 {
- "saved_at": "2026-11-03 08:17",
+ "saved_at": "2026-11-04 08:19",
  "bills": {
+  "PRC_B916160F46A747C49D3CC245289301": {
+   "bill_no": "2222441",
+   "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+   "committee": "",
+   "cmt_result": "",
+   "law_result": "",
+   "proc_result": "",
+   "proc_dt": ""
+  },
   "PRC_3F65E871A6874156932819F950AA73": {
    "bill_no": "2222373",
    "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
-   "committee": "",
+   "committee": "산업통상자원중소벤처기업위원회",
    "cmt_result": "",
    "law_result": "",
    "proc_result": "",
