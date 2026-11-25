@@ -1,10 +1,10 @@
 {
- "saved_at": "2026-11-25 08:26",
+ "saved_at": "2026-11-26 08:27",
  "bills": {
   "PRC_FBD568ABB6594AB99849E62C1F6AE2": {
    "bill_no": "2223175",
    "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
-   "committee": "",
+   "committee": "산업통상자원중소벤처기업위원회",
    "cmt_result": "",
    "law_result": "",
    "proc_result": "",
@@ -13,7 +13,7 @@
   "PRC_AFB73182FFE14E7E90EAD9D74E2A09": {
    "bill_no": "2223158",
    "name": "관광진흥법 일부개정법률안",
-   "committee": "",
+   "committee": "문화체육관광위원회",
    "cmt_result": "",
    "law_result": "",
    "proc_result": "",
