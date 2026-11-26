@@ -1,5 +1,5 @@
 {
- "saved_at": "2026-11-26 08:27",
+ "saved_at": "2026-11-27 08:30",
  "bills": {
   "PRC_FBD568ABB6594AB99849E62C1F6AE2": {
    "bill_no": "2223175",
@@ -239,7 +239,7 @@
    "bill_no": "2220833",
    "name": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
    "committee": "산업통상자원중소벤처기업위원회",
-   "cmt_result": "",
+   "cmt_result": "수정가결",
    "law_result": "",
    "proc_result": "",
    "proc_dt": ""
@@ -437,7 +437,7 @@
    "bill_no": "2219752",
    "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
    "committee": "산업통상자원중소벤처기업위원회",
-   "cmt_result": "",
+   "cmt_result": "대안반영폐기",
    "law_result": "",
    "proc_result": "",
    "proc_dt": ""
@@ -608,7 +608,7 @@
    "bill_no": "2219027",
    "name": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
    "committee": "산업통상자원중소벤처기업위원회",
-   "cmt_result": "",
+   "cmt_result": "대안반영폐기",
    "law_result": "",
    "proc_result": "",
    "proc_dt": ""
